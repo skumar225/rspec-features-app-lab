@@ -8,7 +8,7 @@ Your goal should not be to specify the [edge cases](http://en.wikipedia.org/wiki
 
 ## App description and discussion
 
-Let’s assume that you want to build a weather app, which gives the user the ability to search for weather reports by zipcode, and add certain locations to a list of favorite locations.
+Let’s assume that you want to build an app, which gives the user the ability to find out whether they need an umbrella for the zipcode they are in, and not prompt the user for their zip code in the future, remembering their zip code in a cookie. If the user decides to change locations, then they are prompted for a new location.
 
 ### Draw up some wireframes for what this app may look like
 
