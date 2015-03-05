@@ -1,0 +1,12 @@
+<% if params[:zipcode] == "94111" %>
+  
+Sun's gonna be shining! No umbrella needed
+
+<% elsif params[:zipcode] == "11149"
+   %>
+
+You'll be singing in the rain! Better bring that umbrella
+
+<% end %>
+
+<% link_to "Change your location", root_path%>
